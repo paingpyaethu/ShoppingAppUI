@@ -1,13 +1,9 @@
 import 'react-native-gesture-handler';
-import {View, Text} from 'react-native';
 import React from 'react';
+import {RootNavigator} from './src/navigators';
 
 const App = () => {
-  return (
-    <View>
-      <Text>App</Text>
-    </View>
-  );
+  return <RootNavigator />;
 };
 
 export default App;
