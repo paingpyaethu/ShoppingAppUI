@@ -25,5 +25,11 @@ export type Theme = {
   },
   Layout: {
     fill: number;
+  },
+  Gutters: {
+    mainPadding: number;
+  },
+  Fonts: {
+    bold: any;
   }
 };

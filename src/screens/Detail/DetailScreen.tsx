@@ -3,7 +3,7 @@ import {View, Text} from 'react-native';
 
 const DetailScreen = () => {
   return (
-    <View>
+    <View style>
       <Text>DetailScreen</Text>
     </View>
   );

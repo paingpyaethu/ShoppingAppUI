@@ -14,6 +14,12 @@ const DefaultTheme: Theme = {
 	Layout: {
 		fill: 1,
 	},
+	Gutters: {
+		mainPadding: 24,
+	},
+	Fonts: {
+		bold: 'bold',
+	},
 };
 
 export default DefaultTheme;

@@ -3,9 +3,9 @@ const styles = StyleSheet.create({
 	container: {
 		// backgroundColor: 'red',
 		flexDirection: 'row',
-		paddingHorizontal: 24,
-		gap: 8,
 		alignItems: 'center',
+        justifyContent: 'space-between',
+		marginBottom: 12,
 	},
 	text: {
 		fontSize: 18,
