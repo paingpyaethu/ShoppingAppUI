@@ -44,6 +44,8 @@ const HomeScreen = () => {
         <MasonryLists />
 
         <Text>Home PPT</Text>
+
+        <Text>PPT Home</Text>
       </SafeAreaView>
     </ScrollView>
   );
