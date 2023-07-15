@@ -5,6 +5,8 @@ const DetailScreen = () => {
   return (
     <View style>
       <Text>DetailScreen</Text>
+
+      <Text>Detailsssss</Text>
     </View>
   );
 };
