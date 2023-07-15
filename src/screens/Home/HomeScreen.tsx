@@ -42,6 +42,8 @@ const HomeScreen = () => {
         <Categories />
 
         <MasonryLists />
+
+        <Text>Home PPT</Text>
       </SafeAreaView>
     </ScrollView>
   );
