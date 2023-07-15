@@ -25,6 +25,7 @@ const HomeScreen = () => {
             <Text style={{color: Colors.text, opacity: Colors.opacity}}>
               Discover fashion that suit your style
             </Text>
+            <Text>aaaa</Text>
           </View>
           <TouchableOpacity style={[styles.noti, {borderColor: Colors.border}]}>
             <IonIcons name="notifications" size={24} />
