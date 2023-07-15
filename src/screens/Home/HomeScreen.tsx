@@ -46,6 +46,8 @@ const HomeScreen = () => {
 
         <Text>PPT Home</Text>
         <Text>Test Dev</Text>
+
+        <Text>PPPPPPP</Text>
       </SafeAreaView>
     </ScrollView>
   );
