@@ -42,6 +42,8 @@ const HomeScreen = () => {
         <Categories />
 
         <MasonryLists />
+
+        <Text>Test Dev</Text>
       </SafeAreaView>
     </ScrollView>
   );
