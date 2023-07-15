@@ -42,10 +42,10 @@ const HomeScreen = () => {
         <Categories />
 
         <MasonryLists />
-
         <Text>Home PPT</Text>
 
         <Text>PPT Home</Text>
+        <Text>Test Dev</Text>
       </SafeAreaView>
     </ScrollView>
   );
