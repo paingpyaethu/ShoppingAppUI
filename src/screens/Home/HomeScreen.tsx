@@ -26,10 +26,7 @@ const HomeScreen = () => {
               Discover fashion that suit your style
             </Text>
             <Text>aaaa</Text>
-<<<<<<< HEAD
-=======
             <Text>bbbbb</Text>
->>>>>>> feature/test-dev
           </View>
           <TouchableOpacity style={[styles.noti, {borderColor: Colors.border}]}>
             <IonIcons name="notifications" size={24} />
